@@ -1,0 +1,14 @@
+Block Cipher
+125
+Suatu hari Anda ingin mencuri Flag soal penyisihan Keamanan Jaringan Gemastik. Anda pun
+mendatangi tempat salah satu panitia untuk melakukan sniffing pada WLAN. Anda pun
+senang karena ternyata panitia tidak menggunakan HTTPS dalam mengirimkan data Flag ke
+server.
+Sayangnya, walaupun data jaringan yang dikirimkan tidak terenkripsi, tetapi Flag­nya
+terenkripsi. Setelah menganalisis lebih lanjut, Anda mengetahui bahwa Flag dienkripsi
+menggunakan Block Cipher mode CTR dengan algoritma DES. Anda juga mengetahui bahwa
+tiap enkripsi Flag menggunakan IV (Initialization Vector) yang sama.
+Anda mendapatkan flag terenkripsi untuk soal RSA Factorization dan soal ini (Block Cipher).
+Pecahkan dan dapatkan flag untuk soal ini!
+Hint :
+Anda harus menyelesaikan soal RSA Factorization terlebih dahulu.
